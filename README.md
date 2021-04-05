@@ -40,6 +40,6 @@ Autograde students' assignments
 
 ### ProcessLab.java
 * Method given String name of text file and returns String of the text file's content **getText(String file)**
-* Method given name of directory **String stringDir** and name of java file to run **String mainFile** and returns String output of the java file **getOutput(String stringDir, String mainJava)**
+* Method given name of directory **String stringDir** and name of java file to compile and run **String mainFile** and returns String output of the java file **getOutput(String stringDir, String mainJava)**
 * Method given two Strings of names of text files and returns boolean value of comparing their content **getComparison(String template, String outputFile)**
 * Method to move a copy of a file into each student's subdirectory after given ArrayList<Submssion>, Path of file, and String name of file and returns void **moveFileIntoSubdir(ArrayList<Submission> labs, String fileSrc, Path src, String srcFile)**
