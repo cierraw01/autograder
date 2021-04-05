@@ -2,7 +2,7 @@
 Autograde students' assignments
 
 ### Files in your directory
-* Trial zip folder of student assignments from Blend **290224_Library_submission.zip**
+* Zip folder of student assignments from Blend **290224_Library_submission.zip**
 * If the assignment takes in a txt file to read **demo.txt**
 * Java file to print the student's classes and methods **ReflectionClassesMethods.java**
 * Java file to print the student's main method **ReflectionMainMethod.java**
