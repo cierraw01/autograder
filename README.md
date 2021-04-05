@@ -7,6 +7,9 @@ Autograde students' assignments
 * Java file to print the student's classes and methods **ReflectionClassesMethods.java**
 * Java file to print the student's main method **ReflectionMainMethod.java**
 * Java file to print extra tests for the student's program **ReflectionDemoTests.java**
+* Text file of what **ReflectionClassesMethods.java** should print **reflClassesMethodsOutput.txt**
+* Text file of what **ReflectionMainMethod.java** should print **reflMainMethodOutput.txt**
+* Text file of what **ReflectionDemoTests.java** should print **reflDemoTestsOutput.txt**
 
 ### Main.java
 * Variable for if there's input text file for student's assignment **String demo = "demo.txt"**
